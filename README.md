@@ -16,19 +16,6 @@ Projects will be added here as the repository grows.
 | --- | --- |
 | Coming soon | More Python projects will be listed here. |
 
-## Repository Structure
-
-```text
-Python-Project/
-├── project-name-1/
-│   ├── README.md
-│   ├── main.py
-│   └── requirements.txt
-├── project-name-2/
-│   ├── README.md
-│   └── main.py
-└── README.md
-```
 
 ## Requirements
 
